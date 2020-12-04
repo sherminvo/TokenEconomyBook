@@ -1,9 +1,9 @@
 # TokenEconomyBook
 Token Economy: How the Web3 reinvents the Internet
 Second edition, first amended printing, Nov 2020.
-The first edition was published by BlokchcianHub Berlin in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions. <br>
+The first edition was published by BlokchcianHub Berlin in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions. 
 
-Author: Shermin Voshmgir 
+Author: Shermin Voshmgir <br>
 Publisher:Token Kitchen, 10119 Berlin 
 http://token.kitchen
 Design: Justyna Zubrycka 
@@ -12,7 +12,7 @@ Copy edit: Paisley Prophet
 Cover design: Carmen Fuchs
 Ebook layout: Shermin Voshmgir 
 
-A ebook edition is available under ISBN: 978-3-9821038-3-9
+A ebook edition is available under ISBN: 978-3-9821038-3-9 <br>
 A print edition is available under ISBN: 978-3-9821038-1-5
 
 # About the Book
