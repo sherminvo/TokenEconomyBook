@@ -1,10 +1,7 @@
 # TokenEconomyBook
-Copyleft 2020, Shermin Voshmgir: Creative Commons – CC BY-NC-SA
-This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. For commercial permissions contact: hello@token.kitchen
-
 Token Economy: How the Web3 reinvents the Internet
 Second edition, first amended printing, Nov 2020.
-The first edition was published by BlokchcianHub Berlin in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions. 
+The first edition was published by BlokchcianHub Berlin in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions. <br>
 
 Author: Shermin Voshmgir 
 Publisher:Token Kitchen, 10119 Berlin 
@@ -24,3 +21,7 @@ This book is an attempt to summarize existing knowledge about blockchain network
 Blockchainhub.net was the first website to systematically compile and disseminate blockchain and Web3 knowledge to a general audience and has been operational since 2015,  first with a series of blog posts, which were later compiled and contextualized in the Blockchain Handbook, available for free. 
 
 This book builds on the legacy of the past activities and goes one step beyond: The focus is now on tokens as the atomic unit of the Web3. The basic structure of the second edition of this book is the same as the first edition, with slightly updated content of existing chapters, minor corrections, revised terminology and four additional chapters: “User-Centric Identities,” “Privacy Tokens,” “Lending Tokens,” and “How to Design a Token System.”
+
+# Licence
+Copyleft 2020, Shermin Voshmgir: Creative Commons – CC BY-NC-SA
+This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. For commercial permissions contact: hello@token.kitchen
