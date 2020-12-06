@@ -42,3 +42,77 @@ I would like to express my gratitude to a few people who have inspired or suppor
 
 I am especially grateful for the hospitality and open environment of the Ethereum Office in Berlin, who offered us shelter in their co-working space when setting up the BlockchainHub, and the open mind of all the people involved in post-“TheDAO hack” activities, working 24/7 to find a solution to recover depleted funds, which taught me a great deal about open-source software development and bug fixing in decentralized networks.
 
+# Table of Contents
+
+*[[Imprint & Licence]]
+
+*[[About the Book]]
+
+*[[How to Read This Book]]
+
+*[[Aknowledgements]]
+
+*[[Tables & Figures]]
+
+*[[Introduction]]
+
+**[[Web3 Basics]]**
+
+*[[Tokenized Networks: Web3, the Stateful Web]]
+
+*[[Keeping Track of the Tokens: Bitcoin, Blockchain, & Other Distributed Ledgers]]
+
+*[[Token Security: Cryptography]]
+
+*[[Who Controls The Tokens? User-Centric Identities]]
+
+**[[Web3 Applications]]
+
+*[[Smart Contracts]]**
+
+*[[Institutional Economics of Web3 Networks & other DAOs]]
+
+*[[ Governance of Web3 Networks & Other DAOs]]
+
+*[[ Tokens]]
+
+**[[ Token Economics & Decentralized Finance]]**
+
+*[[ The Future of Money & Decentralized Finance (DeFi)]]
+
+*[[ Stable Tokens]]
+
+*[[ Privacy Tokens]]
+
+*[[ Trading Tokens, Atomic Swaps & DEX]]
+
+*[[ Lending Tokens - Decentralized Credit Systems]]
+
+*[[ Token Sales:ICOs, ITOs, IEOs, STOs]]
+
+**[[ Token Use Cases]]**
+
+*[[ Asset Tokens & Fractional Ownership]]
+
+*[[ Purpose-Driven Tokens]]
+
+*[[ Steemit, Hive & Reddit: Tokenized Social Networks]]
+
+*[[ Basic Attention Token: Advertising Reinvented]]
+
+*[[ Token Curated Registries - The New Search?]]
+
+*[[ How to Design a Token System]]
+
+**[[Annex]]**
+
+*[[ Origins of Bitcoin & the Web3]]
+
+*[[ Blockchain Scalability Solutions]]
+
+*[[ Libra & Celo]]
+
+
+
+
+
