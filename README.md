@@ -3,7 +3,7 @@ Token Economy: How the Web3 reinvents the Internet <br>
 Second edition, first amended printing, Nov 2020.<br>
 The first edition was published by BlockchainHub Berlin https://blokchainnub.net in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions.
 
-# Read the Book Online, fork it or translate it into other languages
+# Read, fork or translate the book into other languages
 https://github.com/sherminvo/TokenEconomyBook/wiki
 
 # About the Book
