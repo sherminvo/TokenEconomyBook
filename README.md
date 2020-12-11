@@ -4,7 +4,8 @@ Second edition, first amended printing, Nov 2020.<br>
 The first edition was published by BlockchainHub Berlin https://blockchainhub.net in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions.
 
 # Read, fork or translate the book into other languages
-https://github.com/sherminvo/TokenEconomyBook/wiki
+English Version: https://github.com/sherminvo/TokenEconomyBook/wiki
+A <b>German Version<\b> is being translated and published in a seperate Github Reporistory: https://github.com/sherminvo/TokenEconomyBuch/wiki
 
 # About the Book
 This book is an attempt to summarize existing knowledge about blockchain networks and other distributed ledgers as the backbone of the Web3, and contextualize the socio-economic implications of the Web3 applications, from smart contracts, tokens, DAOs to the concepts of money, economics, governance and decentralized finance (DeFi). It builds on the educational work that we started at BlockchainHub, an Info:Hub and Thinking:Hub based in Berlin, with the aim to make the Web3 accessible to a general audience.
