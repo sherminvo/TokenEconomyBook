@@ -19,6 +19,7 @@ This book would not have been possible without the input and feedback of many co
 Copyleft 2020, Shermin Voshmgir: Creative Commons – CC BY-NC-SA<br>
 This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. <br>
 More info here: https://creativecommons.org/licenses/by-nc-sa/4.0/ <br>
+If you plan a translation, or other iteration of the book, best to coordinate with me to avoid redundancies, in case someone else is already working on a similar translation/version.
 For commercial permissions contact: hello@token.kitchen <br>
 
 # Imprint
