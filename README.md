@@ -6,6 +6,7 @@ The first edition was published by BlockchainHub Berlin https://blockchainhub.ne
 # Read, fork or translate the book into other languages
 English Version: https://github.com/sherminvo/TokenEconomyBook/wiki.<br>
 German Version: is being translated and published in a seperate Github Reporistory: https://github.com/sherminvo/TokenEconomyBuch/wiki
+Print book (paperback & hardcopy) and eBook editions are also available on Amazon (https://amzn.to/2W7lQ8h) & other online bookstores.
 
 # About the Book
 This book is an attempt to summarize existing knowledge about blockchain networks and other distributed ledgers as the backbone of the Web3, and contextualize the socio-economic implications of the Web3 applications, from smart contracts, tokens, DAOs to the concepts of money, economics, governance and decentralized finance (DeFi). It builds on the educational work that we started at BlockchainHub, an Info:Hub and Thinking:Hub based in Berlin, with the aim to make the Web3 accessible to a general audience.
