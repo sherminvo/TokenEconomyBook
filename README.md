@@ -5,8 +5,19 @@ The first edition was published by BlockchainHub Berlin https://blockchainhub.ne
 
 # Read, fork or translate the book into other languages
 English Version: https://github.com/sherminvo/TokenEconomyBook/wiki.<br>
-German Version: is being translated and published in a seperate Github Reporistory: https://github.com/sherminvo/TokenEconomyBuch/wiki
 Print book (paperback & hardcopy) and eBook editions are also available on Amazon (https://amzn.to/2W7lQ8h) & other online bookstores.
+German Version: is being translated and published in a seperate Github Reporistory: https://github.com/sherminvo/TokenEconomyBuch/wiki
+
+Japanese Version: is currently being translated by a team in Japan and published in a separate Github Repository: https://github.com/Naokiakazawa/TokenEconomyBook_JP/wiki
+If you want to contribute to the collective translation please contact the repository owner Naoki Akazawa on Github or by email: naoki@fracton.ventures. He is coordinating the translation with a local community
+
+Portugese Version**: currently being translated by António Chagas, Courtnay Guimaraes, Jose Rui Sousa and Joana Camilo and will be published in a separate Github Repository soon. 
+If you want to contribute to the collective translation please contact: jsousa@borsini.com, courtnay@uol.com.br, anthagas@hotmail.com
+
+Chinese Version: currently being coordinated and translated by Joanne Long.
+If you want to contribute to the collective translation please contact: xueting.long20@imperial.ac.uk
+
+Farsi Version: is currently being translated by in a telegram channel by Malihe Mahdavisefat. Due to the sanctions against Iran, Github limits Iranians from contributing, which is why Malieh started the translation in her Telegram channel: t.me/rayablockchain. Contact her directly for collaboration.
 
 # About the Book
 This book is an attempt to summarize existing knowledge about blockchain networks and other distributed ledgers as the backbone of the Web3, and contextualize the socio-economic implications of the Web3 applications, from smart contracts, tokens, DAOs to the concepts of money, economics, governance and decentralized finance (DeFi). It builds on the educational work that we started at BlockchainHub, an Info:Hub and Thinking:Hub based in Berlin, with the aim to make the Web3 accessible to a general audience.
