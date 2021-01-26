@@ -2,7 +2,7 @@
 Second edition, first amended printing, Nov 2020.<br>
 The first edition was published by BlockchainHub Berlin https://blockchainhub.net in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions.
 Author: Shermin Voshmgir <br>
-Publisher:Token Kitchen, 10119 Berlin <br>
+Publisher: Token Kitchen, 10119 Berlin <br>
 http://token.kitchen<br>
 Design: Justyna Zubrycka <br>
 Production: Caroline Helbing<br>
