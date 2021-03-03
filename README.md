@@ -4,9 +4,9 @@
 * Other languages: https://github.com/Token-Economy-Book/
 
 # ISBNs
-* ebook edition is available under ISBN: 978-3-9821038-3-9 <br>
-* paperback edition is available under ISBN: 978-3-9821038-1-5 <br>
-* hardcover edition is available as ISBN: 978-3-9821038-4-6<br>
+* Ebook edition is available under ISBN: 978-3-9821038-3-9 <br>
+* Paperback edition is available under ISBN: 978-3-9821038-1-5 <br>
+* Hardcover edition is available as ISBN: 978-3-9821038-4-6<br>
 
 # Imprint
 Token Economy: How the Web3 reinvents the Internet <br>
